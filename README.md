@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iceylemon157
-- 🌱 I’m currently learning Python and Software developing and Cybersecurity
-- NTU CSIE freshman
+- 🌱 I’m currently learning Python and .NET and Cybersecurity
+- NTU CSIE sophomore
 
 <!---
 iceylemon157/iceylemon157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
