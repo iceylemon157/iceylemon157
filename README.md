@@ -1,6 +1,6 @@
 👋 Hi, I’m @iceylemon157, a CSIE undergrad at NTU, graduating in 2026
 
-🌱 Interests: ML/DL, Game Development, and Finance
+🌱 Interests: Competitive Programming, ML/DL, Game Development, and Finance
 
 💻 Side Projects:
 
