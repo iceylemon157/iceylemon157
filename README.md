@@ -1,4 +1,4 @@
-👋 Hi, I’m @iceylemon157, a CSIE undergrad at NTU, graduating in 2026
+👋 Hi, I’m @iceylemon157, a CSIE undergrad (junior) at National Taiwan University, graduating in 2026
 
 🌱 Interests: Competitive Programming, ML/DL, Game Development, and Finance
 
